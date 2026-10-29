@@ -1438,7 +1438,7 @@ export default function App() {
                     className="relative rounded-xl overflow-hidden border border-[rgba(14,17,22,0.12)] bg-[#0B0E13] cursor-pointer group"
                   >
                     <img
-                      src="/assets/aistudio/unnamed__2__ebd38d79.jpg"
+                      src="assets/aistudio/unnamed__2__ebd38d79.jpg"
                       alt="AL-Ghani Real Estate & Builders Authorised Sales Partner Signboard - Ch. Arshad Arif 0303-0823898"
                       referrerPolicy="no-referrer"
                       className="w-full h-auto object-contain block monograph-zoom"

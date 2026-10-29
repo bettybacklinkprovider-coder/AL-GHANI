@@ -114,7 +114,7 @@ export const BUSINESS_PROFILE = {
 export const GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-banner-possession',
-    src: '/assets/aistudio/unnamed__3__ef454fe6.jpg',
+    src: 'assets/aistudio/unnamed__3__ef454fe6.jpg',
     title: 'Possession Ready On Ground — Al Rehman Garden Phase 7',
     subtitle: 'Official Authorised Sales Partner of Al-Rehman Developers & Town Planners',
     category: 'Official',
@@ -122,7 +122,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-signboard-night',
-    src: '/assets/aistudio/unnamed__2__ebd38d79.jpg',
+    src: 'assets/aistudio/unnamed__2__ebd38d79.jpg',
     title: 'AL-Ghani Real Estate & Builders — Ch. Arshad Arif (0303-0823898)',
     subtitle: 'Authorised Sales Partner illuminated office fascia in Al Rehman Garden Phase 7',
     category: 'Exterior',
@@ -130,7 +130,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-office-consultation-1',
-    src: '/assets/aistudio/unnamed__10__a2636dff.jpg',
+    src: 'assets/aistudio/unnamed__10__a2636dff.jpg',
     title: 'Executive Consultation Desk & Society Master Maps',
     subtitle: 'One-on-one plot verification and master plan briefing desk at AL-Ghani office',
     category: 'Inside',
@@ -138,7 +138,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-office-wide-2',
-    src: '/assets/aistudio/unnamed__9__2c1b6c16.jpg',
+    src: 'assets/aistudio/unnamed__9__2c1b6c16.jpg',
     title: 'AL-Ghani Corporate Office & Client Lounge',
     subtitle: 'Spacious air-conditioned consultation hall with society maps and media display',
     category: 'Inside',
@@ -146,7 +146,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-entrance-glass',
-    src: '/assets/aistudio/unnamed__4__5d7d98bc.jpg',
+    src: 'assets/aistudio/unnamed__4__5d7d98bc.jpg',
     title: 'Main Glass Entrance Portal — AL-Ghani Office',
     subtitle: 'Welcoming full-height tempered glass entrance in Al Rehman Garden Phase 7',
     category: 'Inside',
@@ -154,7 +154,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-phase7-landmark-night',
-    src: '/assets/aistudio/unnamed__1__be030782.jpg',
+    src: 'assets/aistudio/unnamed__1__be030782.jpg',
     title: 'Al Rehman Garden Phase 7 — Main Boulevard Landmark',
     subtitle: 'Illuminated monumental architecture and palm-lined avenues at night',
     category: 'Exterior',
@@ -162,7 +162,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-phase7-portico',
-    src: '/assets/aistudio/unnamed_c8dcea04.jpg',
+    src: 'assets/aistudio/unnamed_c8dcea04.jpg',
     title: 'Grand Classical Portico — Al Rehman Garden Phase 7',
     subtitle: 'Signature classical columns and evening illumination inside Phase 7 Lahore',
     category: 'Exterior',
@@ -170,7 +170,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-office-desks-maps',
-    src: '/assets/aistudio/unnamed__6__df3ec98d.jpg',
+    src: 'assets/aistudio/unnamed__6__df3ec98d.jpg',
     title: 'Advisory Workstations & On-Ground Plot Maps',
     subtitle: 'Dedicated advisory desks displaying updated Phase 7 block and plot charts',
     category: 'Inside',
@@ -178,7 +178,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-office-evening-glass',
-    src: '/assets/aistudio/unnamed__5__8fe3eada.jpg',
+    src: 'assets/aistudio/unnamed__5__8fe3eada.jpg',
     title: 'Evening Consultation Suite (Open Until 10:00 PM)',
     subtitle: 'Evening client sessions with direct boulevard frontage in Phase 7',
     category: 'Inside',
@@ -186,7 +186,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
   },
   {
     id: 'photo-office-seating-lounge',
-    src: '/assets/aistudio/unnamed__8__278aeaec.jpg',
+    src: 'assets/aistudio/unnamed__8__278aeaec.jpg',
     title: 'Client Hospitality & Waiting Lounge',
     subtitle: 'Comfortable leather seating and advisory stations for families and investors',
     category: 'Inside',
@@ -316,7 +316,7 @@ export const ARCHITECTURAL_PROJECTS: ArchitecturalProject[] = [
     areaSqm: 450,
     plotSizeLabel: '3, 5, 10 Marla & 1 Kanal',
     priceEstimate: 'Possession Ready On Ground',
-    imageUrl: '/assets/aistudio/unnamed__3__ef454fe6.jpg',
+    imageUrl: 'assets/aistudio/unnamed__3__ef454fe6.jpg',
     featuredSpan: true,
     plateVariant: 'atacama',
     leadParagraph:
@@ -395,7 +395,7 @@ export const ARCHITECTURAL_PROJECTS: ArchitecturalProject[] = [
     areaSqm: 495,
     plotSizeLabel: '1 Kanal (4,500 sq.ft Covered)',
     priceEstimate: 'Turnkey A+ Grade',
-    imageUrl: '/assets/aistudio/unnamed_c8dcea04.jpg',
+    imageUrl: 'assets/aistudio/unnamed_c8dcea04.jpg',
     featuredSpan: false,
     plateVariant: 'kyoto',
     leadParagraph:
@@ -474,7 +474,7 @@ export const ARCHITECTURAL_PROJECTS: ArchitecturalProject[] = [
     areaSqm: 1120,
     plotSizeLabel: '4 & 8 Marla Commercial',
     priceEstimate: 'Prime Boulevard Frontage',
-    imageUrl: '/assets/aistudio/unnamed__1__be030782.jpg',
+    imageUrl: 'assets/aistudio/unnamed__1__be030782.jpg',
     featuredSpan: false,
     plateVariant: 'kronos',
     leadParagraph:
@@ -553,7 +553,7 @@ export const ARCHITECTURAL_PROJECTS: ArchitecturalProject[] = [
     areaSqm: 290,
     plotSizeLabel: '5, 10 Marla & 1 Kanal Maps',
     priceEstimate: 'Free Map & Cost Briefing',
-    imageUrl: '/assets/aistudio/unnamed__10__a2636dff.jpg',
+    imageUrl: 'assets/aistudio/unnamed__10__a2636dff.jpg',
     featuredSpan: true,
     plateVariant: 'obsidian',
     leadParagraph:
