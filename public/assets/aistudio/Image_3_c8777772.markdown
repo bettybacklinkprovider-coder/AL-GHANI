@@ -1,0 +1,249 @@
+---
+name: ARCOVA Architectural Atelier
+colors:
+  surface: '#111319'
+  surface-dim: '#111319'
+  surface-bright: '#36393f'
+  surface-container-lowest: '#0b0e13'
+  surface-container-low: '#191c21'
+  surface-container: '#1d2025'
+  surface-container-high: '#272a30'
+  surface-container-highest: '#32353a'
+  on-surface: '#e1e2e9'
+  on-surface-variant: '#d2c4b5'
+  inverse-surface: '#e1e2e9'
+  inverse-on-surface: '#2e3036'
+  outline: '#9b8f81'
+  outline-variant: '#4e453a'
+  surface-tint: '#eac083'
+  primary: '#eac083'
+  on-primary: '#442b00'
+  primary-container: '#b8925a'
+  on-primary-container: '#442c00'
+  inverse-primary: '#785926'
+  secondary: '#e6c189'
+  on-secondary: '#432c02'
+  secondary-container: '#5c4216'
+  on-secondary-container: '#d4af79'
+  tertiary: '#cac6bf'
+  on-tertiary: '#32302c'
+  tertiary-container: '#9b9892'
+  on-tertiary-container: '#32302c'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#ffddb0'
+  primary-fixed-dim: '#eac083'
+  on-primary-fixed: '#291800'
+  on-primary-fixed-variant: '#5e4111'
+  secondary-fixed: '#ffdeae'
+  secondary-fixed-dim: '#e6c189'
+  on-secondary-fixed: '#281900'
+  on-secondary-fixed-variant: '#5c4216'
+  tertiary-fixed: '#e7e2db'
+  tertiary-fixed-dim: '#cac6bf'
+  on-tertiary-fixed: '#1d1b17'
+  on-tertiary-fixed-variant: '#494742'
+  background: '#111319'
+  on-background: '#e1e2e9'
+  surface-variant: '#32353a'
+typography:
+  display-hero:
+    fontFamily: Playfair Display
+    fontSize: 72px
+    fontWeight: '400'
+    lineHeight: 80px
+    letterSpacing: -0.02em
+  display-hero-mobile:
+    fontFamily: Playfair Display
+    fontSize: 40px
+    fontWeight: '400'
+    lineHeight: 48px
+    letterSpacing: -0.01em
+  headline-xl:
+    fontFamily: Playfair Display
+    fontSize: 48px
+    fontWeight: '400'
+    lineHeight: 56px
+    letterSpacing: -0.015em
+  headline-xl-mobile:
+    fontFamily: Playfair Display
+    fontSize: 32px
+    fontWeight: '400'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Playfair Display
+    fontSize: 36px
+    fontWeight: '400'
+    lineHeight: 44px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Playfair Display
+    fontSize: 26px
+    fontWeight: '500'
+    lineHeight: 34px
+    letterSpacing: 0em
+  headline-sm:
+    fontFamily: Playfair Display
+    fontSize: 20px
+    fontWeight: '500'
+    lineHeight: 28px
+    letterSpacing: 0em
+  body-lg:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '300'
+    lineHeight: 30px
+    letterSpacing: 0.01em
+  body-md:
+    fontFamily: Inter
+    fontSize: 15px
+    fontWeight: '300'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  body-sm:
+    fontFamily: Inter
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0.015em
+  label-caps:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 14px
+    letterSpacing: 0.18em
+  label-mono:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.08em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-lg: 2.5rem
+  margin: 1.5rem
+  margin-md: 3rem
+  margin-lg: 5rem
+  space-xs: 0.375rem
+  space-sm: 0.75rem
+  space-md: 1.25rem
+  space-lg: 2.25rem
+  space-xl: 3.5rem
+  space-2xl: 5.5rem
+---
+
+## Brand & Style
+
+The design system projects monumental elegance, surgical precision, and bespoke materiality. Designed for high-net-worth clients, developers, and visionary institutions, the interface must feel like an ultra-exclusive architectural monograph combined with a modern atelier workspace.
+
+### Aesthetic Paradigm
+- **Movement:** Dark Luxury Editorial with Architectural Tonalism.
+- **Rhythm:** Alternating canvas cadences—transitioning deliberately between abyssal deep charcoals and gallery-grade warm off-white limestone surfaces.
+- **Atmosphere:** Controlled, high-contrast, serene, and tactile. Uncluttered visual planes anchored by hair-thin 1px structural framing, bronze reflections, and generous spatial discipline.
+- **Emotional Response:** Reassurance of mastery, enduring permanence, discreet wealth, and museum-grade discernment.
+
+## Colors
+
+The color architecture is built around deep spatial voids, warm natural aggregate, and muted metallic brass/bronze alloy tones.
+
+### Color Tokens & Assignments
+- **Surface Voids (Dark Theme Canvas):** `#0E1116` (Deep Obsidian) to `#12151B` (Rich Basalt). Used for immersive project showcases, cinematic hero states, and architectural floorplans.
+- **Alternate Canvas (Gallery Cream):** `#F4EFE8` (Limestone Alabaster). Applied across alternating editorial portfolio sections to evoke raw stone, heavy museum stock, and natural linen.
+- **Accents:**
+  - Base Bronze: `#B8925A` (Muted Architectural Gold) for critical focal points, active tab lines, key statistics, and micro-rules.
+  - Radiant Bronze (Hover): `#D2AE78` for interactive micro-states, button illumination, and focal borders.
+- **Framing & Borders:**
+  - Dark Surface Borders: `rgba(244, 239, 232, 0.08)` to `rgba(184, 146, 90, 0.25)`.
+  - Light Surface Borders: `rgba(14, 17, 22, 0.08)` to `rgba(184, 146, 90, 0.35)`.
+- **Text Systems:**
+  - Dark Mode: Primary `#F4EFE8`, Secondary `rgba(244, 239, 232, 0.65)`, Muted `rgba(244, 239, 232, 0.40)`.
+  - Light Mode: Primary `#0E1116`, Secondary `rgba(14, 17, 22, 0.70)`, Muted `rgba(14, 17, 22, 0.45)`.
+
+## Typography
+
+The typographic tension pairs the editorial grace of high-contrast transitional serifs with the structural clarity of a wide-tracked geometric sans-serif.
+
+### Hierarchy & Style Rules
+- **Editorial Headlines (`Playfair Display`):** Reserved for hero narrative statements, project monograph titles, and section indices. Rendered predominantly in Regular (`400`) and Medium (`500`) weights to preserve the delicate razor-edge serifs.
+- **Body & Continuous Reading (`Inter`):** Set at Light (`300`) and Book (`400`) weights with deliberate leading (`1.6x` to `1.7x`) to ensure readability against dark obsidian and cream stone backgrounds.
+- **Architectural UI Labels & Badges (`Inter` Caps):** Every badge, metadata tag, navigational anchor, and status label must be set strictly in uppercase with wide letter tracking (`0.12em` to `0.20em`), echoing blueprint title blocks and exhibition plaques.
+
+## Layout & Spacing
+
+The layout is grounded in a disciplined 12-column architectural grid with structural axis lines and generous negative space reminiscent of fine art folio publications.
+
+### Grid & Breakpoints
+- **Desktop (≥ 1280px):** 12-column grid, `margin-lg` (5rem / 80px) outer framing, `gutter-lg` (2.5rem / 40px). Max page containment at `1440px` with optional full-bleed panoramic media strips.
+- **Tablet (768px - 1279px):** 8-column grid, `margin-md` (3rem / 48px) margins, `gutter` (1.5rem / 24px).
+- **Mobile (< 768px):** 4-column grid, `margin` (1.5rem / 24px), `gutter` (1rem / 16px).
+
+### Section Alternation Matrix
+Sections alternate rhythmically between full-height Dark Basalt voids (`#0E1116` / `#12151B`) and Full Light Limestone panels (`#F4EFE8`). Transitions between themes occur edge-to-edge with no soft gradients—relying on razor-sharp horizontal divider rules (`1px` tinted line) or direct canvas shifts to emulate entering distinct architectural pavilions.
+
+## Elevation & Depth
+
+Spatial depth avoids soft, generic blurs. It relies on subtle surface layering, micro-thin hairline boundaries, and restrained directional bronze halos.
+
+### Visual Depth Hierarchy
+1. **Foundation Level (Flat Voids):** Backgrounds at `#0E1116` or `#F4EFE8`. No elevation.
+2. **Structural Tonal Layers:**
+   - Dark Tier 1: `#12151B`
+   - Dark Tier 2 (Elevated Planes & Drawer Shells): `#171B23`
+   - Cream Elevated Plates: `#FFFFFF`
+3. **Ghost Boundaries & Hairlines:** Crisp `1px` borders are mandatory across cards, headers, and division walls. Dark mode uses `border: 1px solid rgba(244, 239, 232, 0.08)`. Hover states selectively brighten to `rgba(184, 146, 90, 0.40)`.
+4. **Architectural Diffused Shadows:**
+   - Ambient Shadow: `0 20px 40px -15px rgba(0, 0, 0, 0.5)` with an embedded subtle gold warm tone.
+   - Project Specimen Shadow: `0 30px 60px -20px rgba(7, 9, 12, 0.7)`.
+
+## Shapes
+
+The design system employs a refined radius scale that softens geometric rigidity without sacrificing architectural precision.
+
+### Radius Assignments
+- **Core Radius (`roundedness: 2` / `0.5rem` / `8px`):** Used for micro-inputs, buttons, tag chips, and dropdown menus.
+- **Large Radius (`rounded-lg` / `1rem` / `16px`):** Used for major structural cards, project galleries, and floating navigation panels.
+- **Extra-Large Radius (`rounded-xl` / `1.5rem` / `24px`):** Applied to modal sheets and full-bleed image viewports.
+- **Architectural Exceptions:** Floorplan viewports and data matrices maintain crisp `0px` corners to reinforce drafted precision when embedded within parent cards.
+
+## Components
+
+### Buttons
+- **Primary Bronze Action:**
+  - Background: `#B8925A`
+  - Text: `#0E1116`, `label-caps` font style, bold uppercase.
+  - Hover: Background fills to `#D2AE78` with a subtle elevation shift (`0 4px 20px rgba(184, 146, 90, 0.25)`).
+  - Padding: `0.875rem 2rem`, radius `8px`.
+- **Secondary Ghost Outline:**
+  - Background: Transparent.
+  - Border: `1px solid rgba(184, 146, 90, 0.4)`.
+  - Text: `#F4EFE8` (in dark canvas) or `#0E1116` (in light canvas).
+  - Hover: Border switches to `#D2AE78` with a `rgba(184, 146, 90, 0.06)` backdrop wash.
+
+### Cards & Monograph Tiles
+- Built with a structural `1px` border (`rgba(244, 239, 232, 0.08)` on dark, `rgba(14, 17, 22, 0.08)` on light).
+- Radius is fixed at `14px` to `16px`.
+- Internal image containers showcase a slow zoom-in on hover (`scale(1.03)` with cubic-bezier `(0.16, 1, 0.3, 1)` easing).
+- Footers feature bronze metadata indices (e.g., `EST. 2024 / RESIDENTIAL / KYOTO`) in `label-caps`.
+
+### Input Fields & Selection Controls
+- **Inputs:** Dark field background `#12151B` encased in a `1px` border (`rgba(244, 239, 232, 0.12)`). Active focus shifts the border to `#B8925A` with zero outer ring glow. Caret color is fixed to `#D2AE78`. Text typed is crisp `#F4EFE8`.
+- **Checkboxes & Radios:** Sharp custom glyphs with `1px` bronze strokes. Checked state fills with `#B8925A` bearing a deep charcoal glyph mark.
+
+### Architectural Chips & Badges
+- Compact padding (`0.35rem 0.85rem`), radius `4px` to `6px`.
+- Caps lock lettering (`label-caps`), wide letter tracking (`0.18em`).
+- Dark mode: `background: rgba(184, 146, 90, 0.08)`, `border: 1px solid rgba(184, 146, 90, 0.25)`, `color: #D2AE78`.
+
+### Blueprint & Plan Data Lists
+- Horizontal rows separated by hair-thin `1px` lines (`rgba(244, 239, 232, 0.06)`).
+- Key-value pairs display architectural parameters (e.g., "GROSS INTERNAL AREA", "STRUCTURAL TIMBER", "COMPLETION"). Values are highlighted in `#F4EFE8` or `#B8925A`.
